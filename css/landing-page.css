@@ -34,7 +34,8 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/geo.png) no-repeat left center;
-    background-size: 400px;
+    background-size: 200px;
+    margin-left: 100px;
 }
 
 .intro-message {
